@@ -1,0 +1,26 @@
+# IDEs
+.idea
+.vscode
+.vagrant
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+/vendor
+/node_modules
+package-lock.json
+yarn.lock
+
+# Builds
+/builds
+/.cache
+.phpunit.result.cache
+/_site
+
+# Lock files
+**/*.lock
+
+# Secrets
+.env
