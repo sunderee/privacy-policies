@@ -4,7 +4,7 @@ title: DOCOrganizer
 
 ## DOCOrganizer Privacy Policy
 
-Effective date: March 18, 2024
+Effective date: March 26, 2024
 
 This Privacy Policy describes how DOCOrganizer (the "App") collects, uses, and shares information about you and the steps we take to protect your privacy. By using the App, you agree to the collection and use of information in accordance with this policy.
 
