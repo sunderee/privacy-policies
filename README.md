@@ -5,7 +5,7 @@ This repository is maintained as a public resource in furtherance of our commitm
 For any inquiries, clarifications, or matters pertaining to the contents of this repository, interested parties are hereby advised to:
 
 1. Submit formal inquiries through the GitHub Issues system of this repository; or
-2. Initiate contact through the official communication channels provided on our website [https://privacy-policies.bizjak.dev](https://privacy-policies.bizjak.dev).
+2. Initiate contact through the official communication channels provided on our [website](https://pab-privacy-policies.vercel.app).
 
 All documents contained herein are subject to version control, with historical changes tracked through Git commit history. Each modification is documented with appropriate timestamps and change descriptions to ensure transparency and auditability. The contents of this repository are provided for informational purposes and constitute legally binding documents where explicitly indicated.
 
