@@ -53,12 +53,12 @@ export default function Home() {
 						<p className="text-sm">
 							<span className="font-medium">Official Website:</span>{' '}
 							<a
-								href="https://privacy-policies.bizjak.dev"
+								href="https://peter-aleksander.bizjak.dev"
 								className="text-primary hover:underline"
 								target="_blank"
 								rel="noopener noreferrer"
 							>
-								privacy-policies.bizjak.dev
+								peter-aleksander.bizjak.dev
 							</a>
 						</p>
 					</div>
