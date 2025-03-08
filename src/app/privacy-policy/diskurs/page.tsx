@@ -57,7 +57,7 @@ export default function DiskursPrivacyPolicyPage() {
                         </section>
 
                         <section className="space-y-4">
-                            <h2 className="text-2xl font-semibold text-foreground">4. Children's Privacy</h2>
+                            <h2 className="text-2xl font-semibold text-foreground">4. Children&apos;s Privacy</h2>
                             <p className="text-muted-foreground text-lg">
                                 Diskurs is not intended for use by individuals under the age of 18. The app may display
                                 language that is not suitable for minors.
