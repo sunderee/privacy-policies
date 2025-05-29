@@ -11,7 +11,7 @@ export default function RSSitPrivacyPolicyPage() {
                 <div className="px-6">
                     <article className="space-y-8">
                         <p className="text-muted-foreground text-lg">
-                            Last Updated: November 27, 2024
+                            Last Updated: May 29, 2025
                         </p>
 
                         <p className="text-muted-foreground text-lg">
